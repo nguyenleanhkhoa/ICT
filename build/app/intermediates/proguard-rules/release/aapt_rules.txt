@@ -1,0 +1,6 @@
+# Referenced at /Users/macbook/Desktop/tri_viet/LMS_ICT/phase_developer_01/mobile-app/build/app/intermediates/merged_manifests/release/AndroidManifest.xml:21
+-keep class androidx.core.app.CoreComponentFactory { <init>(); }
+# Referenced at /Users/macbook/Desktop/tri_viet/LMS_ICT/phase_developer_01/mobile-app/build/app/intermediates/merged_manifests/release/AndroidManifest.xml:26
+-keep class com.example.newsdailymobile.MainActivity { <init>(); }
+# Referenced at /Users/macbook/Desktop/tri_viet/LMS_ICT/phase_developer_01/mobile-app/build/app/intermediates/merged_manifests/release/AndroidManifest.xml:21
+-keep class io.flutter.app.FlutterApplication { <init>(); }

@@ -1,0 +1,4 @@
+#Sat Jul 03 23:31:03 ICT 2021
+base.0=/Users/macbook/Desktop/tri_viet/LMS_ICT/phase_developer_01/mobile-app/build/app/intermediates/dex/app1Debug/mergeDexApp1Debug/out/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex

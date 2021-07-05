@@ -1,0 +1,4 @@
+#Wed Jun 30 18:35:32 ICT 2021
+base.0=/Users/macbook/Desktop/tri_viet/LMS_ICT/phase_developer_01/mobile-app/build/app/intermediates/transforms/r8/release/0/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
